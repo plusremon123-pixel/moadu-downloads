@@ -1,3 +1,7 @@
+[Android 휴대폰용 APK 다운로드](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.2-code3/MOADU-Mobile-1.0.2-test.apk) · [검수 버전 안내](https://github.com/plusremon123-pixel/moadu-downloads/releases/tag/mobile-v1.0.2-code3) · [SHA-256 체크섬](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.2-code3/SHA256SUMS.txt)
+
+로그인 없이 다운로드할 수 있습니다. 1.0.2 / code3 / 19,349,770바이트.
+
 # MOADU 모바일 1.0.2 검수 APK
 
 Android 8.0 이상에서 사용하는 로컬 단독형 MOADU의 Google Play 등록 전 검수 파일입니다. 앱 식별자는 `app.moadu.mobile`, versionCode는 `3`입니다. Google Play 게시본은 아닙니다.

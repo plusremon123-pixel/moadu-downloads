@@ -1,23 +1,19 @@
-[Android 휴대폰용 APK 다운로드](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.2-code3/MOADU-Mobile-1.0.2-test.apk) · [검수 버전 안내](https://github.com/plusremon123-pixel/moadu-downloads/releases/tag/mobile-v1.0.2-code3) · [SHA-256 체크섬](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.2-code3/SHA256SUMS.txt)
+[Android 휴대폰용 APK 다운로드](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.3-code4/MOADU-Mobile-1.0.3-test.apk) · [검수 버전 안내](https://github.com/plusremon123-pixel/moadu-downloads/releases/tag/mobile-v1.0.3-code4) · [SHA-256 체크섬](https://github.com/plusremon123-pixel/moadu-downloads/releases/download/mobile-v1.0.3-code4/SHA256SUMS.txt)
 
-로그인 없이 다운로드할 수 있습니다. 1.0.2 / code3 / 19,349,770바이트.
+로그인 없이 다운로드할 수 있습니다. 1.0.3 / code4 / 19,349,770바이트.
 
-# MOADU 모바일 1.0.2 검수 APK
+# MOADU 모바일 1.0.3 검수 APK
 
-Android 8.0 이상에서 사용하는 로컬 단독형 MOADU의 Google Play 등록 전 검수 파일입니다. 앱 식별자는 `app.moadu.mobile`, versionCode는 `3`입니다. Google Play 게시본은 아닙니다.
+Android용 로컬 단독 앱입니다. 버전 1.0.3 / versionCode 4. Google Play 정식 게시본이 아닌 검수 버전입니다.
 
-## 휴대폰 설치
+링크 다음 빈 문단에서 지우기를 누를 때 링크 삭제 확인이 먼저 뜨는 오류를 수정했습니다. 빈 문단을 먼저 지우고 링크와 아래 내용을 유지합니다. 실제 링크 삭제 확인, 기존 디자인·편집 기능·알림 소리·진동·한 번 연장은 유지합니다.
 
-1. 배포 페이지의 `MOADU-Mobile-1.0.2-test.apk` 파일을 Android 휴대폰으로 다운로드합니다.
-2. 다운로드한 파일을 엽니다. Android에서 요청하면 다운로드에 사용한 브라우저 또는 파일 앱에 한해 ‘알 수 없는 앱 설치’를 허용합니다. 기기에 따라 설정 이름이 다를 수 있습니다.
-3. 기존 MOADU 공개판 1.0.0/1.0.1이 있다면 앱에서 암호 백업을 만든 뒤 삭제하지 않고 업데이트합니다. 개인용 오늘할일은 별도 앱으로 유지됩니다.
-4. 검수에는 임의로 만든 할 일과 테스트 사진을 사용합니다. 앱의 ‘개인정보 및 권한 안내’에서 알림·정확한 알람·다른 앱 위 표시 권한을 필요에 따라 설정합니다.
+기존 MOADU 1.0.2가 설치되어 있으면 앱을 삭제하지 않고 APK를 열어 업데이트합니다. 설치 전 앱 설정의 암호 백업으로 자료를 보관할 수 있습니다. Android에서 다운로드를 시작한 브라우저의 설치 허용을 요청할 수 있습니다.
 
-## 이번 버전
+서명 인증서는 기존 MOADU 모바일과 같습니다. 자동 검사와 생성된 편집 화면 검사를 통과했으나 모든 실제 휴대폰·키보드를 검수한 것은 아닙니다. 개인용 오늘할일 자료·서버와 연결하지 않습니다.
 
-- 잠금 화면 전용 팝업·자동 화면 켜기·전체 화면 권한을 제외했습니다. 일반 시스템 알림의 잠금 화면 노출은 Android 설정에 따릅니다.
-- 기존 화면과 편집·사진·날짜·메모·위젯, 할 일별 소리·진동, 5/10/15/20분 한 번 연장을 유지합니다. 현재 알림 소리 구현은 최종으로 보존했습니다.
-- 자동 검사 291개 통과, 기존 외부 네트워크 검사 1개 제외, lint 오류 0개입니다. 격리 API36 가상 기기에서 1.0.1→1.0.2 업데이트와 합성 자료 유지가 확인됐습니다.
-- 사용자가 앞선 검수 APK의 소리·진동을 확인했습니다. 이 파일의 모든 실제 휴대폰 환경 검수가 완료됐다는 의미는 아닙니다.
+파일: MOADU-Mobile-1.0.3-test.apk
+크기: 19349770바이트
+SHA-256: 653f0bbfd6154859bc9de00dcf668355e27a0b35fabb9aed3c73163a7c07a15c
 
-파일 크기: 19,349,770바이트. 무결성 값은 `SHA256SUMS.txt`를 확인하세요. 다운로드 오류 또는 설치 오류가 있으면 기존 앱을 삭제하지 말고 먼저 오류 내용을 확인하세요. 향후 Play 배포본과의 업데이트 호환성은 Play 앱 서명 확정 후 별도로 검증합니다.
+[이전 1.0.2 검수 버전](https://github.com/plusremon123-pixel/moadu-downloads/releases/tag/mobile-v1.0.2-code3)

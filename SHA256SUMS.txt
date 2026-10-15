@@ -1,1 +1,1 @@
-a18fc1f51a8a49daf232c1dd2ba41f84f3d1cfce59dfca7da95dd8f25a14cf81  MOADU-Mobile-1.0.4-test.apk
+88d2af4076d1f65ef2a516675d9e4b40f1dc0c05df4115733b7a5c94922f75b7  MOADU-Mobile-1.0.5-test.apk
